@@ -3,7 +3,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Toast;
 
 
@@ -52,5 +54,9 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(), (CharSequence) t, Toast.LENGTH_LONG).show();
             }
         });
+    }
+
+    public void GoToAbout(View view){
+        startActivity(new Intent(MainActivity.this, About.class));
     }
 }

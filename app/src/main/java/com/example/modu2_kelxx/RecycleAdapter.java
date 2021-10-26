@@ -47,7 +47,10 @@ public class RecycleAdapter extends RecyclerView.Adapter<RecycleAdapter.ViewHold
             public void onClick(View view) {
 
                 Intent intent = new Intent(mContext, DetailActivity.class);
-                intent.putExtra("name", dataUser.get(i).getFirstName());
+                intent.putExtra("firstname", dataUser.get(i).getFirstName());
+                intent.putExtra("lastname", dataUser.get(i).getLastName());
+                intent.putExtra("email", dataUser.get(i).getEmail());
+                intent.putExtra("image", dataUser.get(i).getAvatar());
                 mContext.startActivity(intent);
             }
         });

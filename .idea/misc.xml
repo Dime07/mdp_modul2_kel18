@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/KULIAH/8. PRATIKUM MDP/MODUL 2 (MATERI)/Tugas/modul2_kelxx/app/src/main/res/drawable/roundedbg.xml" value="0.2203125" />
+        <entry key="..\:/KULIAH/8. PRATIKUM MDP/MODUL 2 (MATERI)/Tugas/modul2_kelxx/app/src/main/res/layout/activity_about.xml" value="0.20416666666666666" />
+        <entry key="..\:/KULIAH/8. PRATIKUM MDP/MODUL 2 (MATERI)/Tugas/modul2_kelxx/app/src/main/res/layout/activity_detail.xml" value="0.22" />
+        <entry key="..\:/KULIAH/8. PRATIKUM MDP/MODUL 2 (MATERI)/Tugas/modul2_kelxx/app/src/main/res/layout/activity_landing_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/KULIAH/8. PRATIKUM MDP/MODUL 2 (MATERI)/Tugas/modul2_kelxx/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/KULIAH/8. PRATIKUM MDP/MODUL 2 (MATERI)/Tugas/modul2_kelxx/app/src/main/res/layout/item_rv_list_user.xml" value="0.5" />
         <entry key="..\:/Project/modul2_kelxx/app/src/main/res/drawable-v24/onboarding_indicator_active.xml" value="0.1962962962962963" />
         <entry key="..\:/Project/modul2_kelxx/app/src/main/res/drawable-v24/onboarding_indicator_inactive.xml" value="0.1962962962962963" />
         <entry key="..\:/Project/modul2_kelxx/app/src/main/res/layout/activity_detail.xml" value="0.5" />
